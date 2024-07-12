@@ -64,8 +64,6 @@ class MediaFile:
 
 
 class AudioFile(MediaFile):
-    def __init__(self, name, file_location, size, creation_date, change_date, owner, file_extension):
-        super().__init__(name, file_location, size, creation_date, change_date, owner, file_extension)
 
     def get_audio_duration(self):
         """shows given audio file's duration"""
@@ -80,8 +78,6 @@ class AudioFile(MediaFile):
 
 
 class VideoFile(MediaFile):
-    def __init__(self, name, file_location, size, creation_date, change_date, owner, file_extension):
-        super().__init__(name, file_location, size, creation_date, change_date, owner, file_extension)
 
     def get_video_duration(self):
         """shows given video file's duration"""
@@ -116,8 +112,6 @@ class VideoFile(MediaFile):
 
 
 class ImageFile(MediaFile):
-    def __init__(self, name, file_location, size, creation_date, change_date, owner, file_extension):
-        super().__init__(name, file_location, size, creation_date, change_date, owner, file_extension)
 
     def convert_image_to(self, extension):
         """
