@@ -64,7 +64,6 @@ class MediaFile:
 
 
 class AudioFile(MediaFile):
-
     def get_audio_duration(self):
         """shows given audio file's duration"""
         pass
@@ -78,7 +77,6 @@ class AudioFile(MediaFile):
 
 
 class VideoFile(MediaFile):
-
     def get_video_duration(self):
         """shows given video file's duration"""
         pass
@@ -112,7 +110,6 @@ class VideoFile(MediaFile):
 
 
 class ImageFile(MediaFile):
-
     def convert_image_to(self, extension):
         """
             converts video file to given from extension
