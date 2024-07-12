@@ -132,13 +132,11 @@ class ImageFile(MediaFile):
 
     def resize_image(self, resolution):
         """resize resolution of the image"""
-
-    pass
+        pass
 
     def get_color_mode(self):
         """returns the color mode of the image (RGB, CMYK, etc.)"""
-
-    pass
+        pass
 
     def rotate_image(self, angle):
         """rotates an image by a specified angle"""
