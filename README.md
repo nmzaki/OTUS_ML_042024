@@ -1,4 +1,5 @@
 # About Me:
+For educational purposes in field of Machine learning
 Learning ML and Data Science
 
 ### Connect with me:
