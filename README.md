@@ -14,7 +14,7 @@ OTUS_ML_042024<br>For educational purposes in the field of machine learning<br>C
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img width="600" height="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img width="500" height="250" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
 ---
