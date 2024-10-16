@@ -1,4 +1,4 @@
-# About Me:
+# About repo:
 For educational purposes in field of Machine learning<br>
 Learning ML and Data Science
 
