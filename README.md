@@ -1,5 +1,5 @@
 # About Me:
-For educational purposes in field of Machine learning
+For educational purposes in field of Machine learning<br>
 Learning ML and Data Science
 
 ### Connect with me:
